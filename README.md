@@ -65,6 +65,3 @@ cv2.destroyAllWindows()
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-This [README.md](http://_vscodecontentref_/#%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22g%3A%5C%5CMy%20Drive%5C%5CGithubProjects%5C%5CComputer-Vision-Modules%5C%5CREADME.md%22%2C%22_sep%22%3A1%2C%22path%22%3A%22%2Fg%3A%2FMy%20Drive%2FGithubProjects%2FComputer-Vision-Modules%2FREADME.md%22%2C%22scheme%22%3A%22file%22%7D%7D) provides an overview of the project, installation instructions, descriptions of the modules, usage examples, and licensing information.
-```
