@@ -11,6 +11,9 @@ Modules built for computer vision using MediaPipe and OpenCV.
   - [Face Mesh](#face-mesh)
   - [Hand Tracking](#hand-tracking)
   - [Pose Estimation](#pose-estimation)
+- [Example Projects](#projects)
+  - [Gesture Volume Control](#gesture-volume-control)
+  - [Bicep Curl Counter](#bicep-curl-counter)
 - [Usage](#usage)
 - [License](#license)
 
@@ -37,6 +40,13 @@ The hand tracking module is implemented in `HandTrackingModule.py`. It uses the 
 
 ### Pose Estimation
 The pose estimation module is implemented in `PoseEstimationModule.py`. It uses the MediaPipe Pose Estimation model to detect human poses in an image or video stream.
+
+## Example Projects
+### Gesture Volume Control
+The gesture volume control project is implemented in `GestureVolumeControl.py`. It uses a minimized hand tracking module to detect hand landmarks and control the system volume based on the hand gestures.
+
+### Bicep Curl Counter
+The bicep curl counter project is implemented in `BicepCurlCounter.py`. It uses a minimized pose estimation module to detect the landmarks of the shoulder, elbow, and wrist to count the number of bicep curls performed.
 
 ## Usage
 Each module can be imported and used in your Python code. Here is an example of how to use the face detection module:
